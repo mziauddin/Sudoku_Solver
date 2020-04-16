@@ -7,4 +7,4 @@ Haskell is the programming language used and we have employed advanced functiona
 The algorithm is a combination of constraint propagation and recursive search algorithm. 
 
 The program has been tested against sudoku puzzles of varying difficulties and the computing speed is not upto the mark. Better data structures can be used to implement this program and we can also modify the algorithm for effeciency. 
-It was a graduate level project meant to test effeciency in the haskell programming language and not to test effeciency in algorithm design. So please feel free to make any changes that can improve the code.
+It was a graduate level project meant to test effeciency in the haskell programming language and not to test effeciency in algorithm design. So please feel free to make any changes that can improve the code
